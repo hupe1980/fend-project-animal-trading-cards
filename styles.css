@@ -1,0 +1,29 @@
+/* add your CSS here */
+.animal {
+  border: 1px solid lightgray;
+  box-shadow: 10px 10px 5px gainsboro;
+  width: 300px;
+  padding: 10px;
+}
+
+.animal-image {
+  width: 100%;
+}
+
+.information {
+  border: 1px solid lightgray;
+  padding: 10px;
+}
+
+.interesting-fact {
+  font-style: italic;
+}
+
+.fact-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.fact-listitem > span {
+  font-weight: bold;
+}
